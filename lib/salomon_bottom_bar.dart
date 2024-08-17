@@ -58,7 +58,7 @@ class SalomonBottomBar extends StatelessWidget {
   final Curve curve;
 
   /// The splash animastion is active 
-  final bool flashActive;
+  final bool splashActive;
 
   @override
   Widget build(BuildContext context) {
